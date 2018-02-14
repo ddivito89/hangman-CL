@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ddivito89/hangman-CL/issues"
   },
-  "homepage": "https://github.com/ddivito89/hangman-CL#readme"
+  "homepage": "https://github.com/ddivito89/hangman-CL#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
 }
